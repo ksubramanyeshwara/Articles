@@ -1,6 +1,5 @@
-# Full Stack JavaScript Developer
-
-**Full Stack JavaScript Developer live course by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) and [Anurag Tiwari](https://www.linkedin.com/in/anuragtiwarime/). This repository contains all the Articles written by me.**
+# Articles ✍️
+## **This repository contains all the article wriiten by me**
 
 - [History of World Wide Web (www) and Web Servers!](https://subramanyeshwara.hashnode.dev/history-of-world-wide-web-www-and-web-servers)
 
