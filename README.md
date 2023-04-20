@@ -13,3 +13,5 @@
 - [Positioning in CSS...!](https://subramanyeshwara.hashnode.dev/positioning-in-css)
 
 - [Guide to CSS box model...!](https://subramanyeshwara.hashnode.dev/guide-to-css-box-model)
+
+- [Introduction to JavaScript...!](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7054815501486567426/)
