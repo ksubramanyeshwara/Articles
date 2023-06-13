@@ -1,4 +1,5 @@
 # Articles ✍️
+
 ## **This repository contains all the article wriiten by me**
 
 - [History of World Wide Web (www) and Web Servers!](https://subramanyeshwara.hashnode.dev/history-of-world-wide-web-www-and-web-servers)
@@ -14,3 +15,5 @@
 - [Guide to CSS box model...!](https://subramanyeshwara.hashnode.dev/guide-to-css-box-model)
 
 - [Introduction to JavaScript...!](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7054815501486567426/)
+
+- [Variables and Constants in JavaScript...!](https://subramanyeshwara.hashnode.dev/variables-and-constants-in-javascript)
