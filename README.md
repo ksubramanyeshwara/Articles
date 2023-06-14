@@ -17,3 +17,5 @@
 - [Introduction to JavaScript...!](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7054815501486567426/)
 
 - [Variables and Constants in JavaScript...!](https://subramanyeshwara.hashnode.dev/variables-and-constants-in-javascript)
+
+- [DataTypes in JavaScript...!](https://subramanyeshwara.hashnode.dev/variables-and-constants-in-javascript)
