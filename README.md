@@ -18,4 +18,4 @@
 
 - [Variables and Constants in JavaScript...!](https://subramanyeshwara.hashnode.dev/variables-and-constants-in-javascript)
 
-- [DataTypes in JavaScript...!](https://subramanyeshwara.hashnode.dev/variables-and-constants-in-javascript)
+- [DataTypes in JavaScript...!](https://subramanyeshwara.hashnode.dev/data-types-in-javascript)
